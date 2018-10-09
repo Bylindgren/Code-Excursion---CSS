@@ -1,0 +1,12 @@
+body {
+    color: bisque
+}
+p {color: blue}
+
+li {
+    color: orange;
+}
+
+.highlight {
+    color: black;
+}

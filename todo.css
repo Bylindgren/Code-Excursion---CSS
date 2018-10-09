@@ -1,0 +1,27 @@
+li {
+    border: 2px solid gray
+}
+
+#todos {
+    background-color: aquamarine 
+}
+
+#todo-1 {
+    background-color: blanchedalmond
+}
+
+#todo-2{
+    background-color: lightcoral 
+}
+
+.important {
+    background-color: #cc0000
+}
+
+.semi-important {
+    background-color: #ff9900
+}
+
+.not-important {
+    background-color: #33cc33
+}

@@ -1,0 +1,27 @@
+p {
+    font-family: source sans pro;
+
+}
+body {
+    width: 60%;
+    margin: auto;
+    border: 20px gray solid;
+}
+
+h3 {
+    font-family: source sans pro;
+    font-size: 2em;
+}
+
+h5 {
+    font-family: source sans pro;
+    font-size: 0,5em;
+}
+
+#side {
+    border-left: gray solid 5px;
+}
+
+div {
+    margin; 5px, 5px, 5px, 5px;
+}
